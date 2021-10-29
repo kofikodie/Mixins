@@ -1,0 +1,14 @@
+{
+  "name": "mixins",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kofikodie/Mixins.git",
+  "author": "Kofi Addo <kofi.addo@facile.it>",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts src/"
+  },
+  "dependencies": {
+    "ts-node": "^10.4.0"
+  }
+}
